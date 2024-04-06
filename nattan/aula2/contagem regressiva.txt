@@ -1,0 +1,5 @@
+1. Solicita do usuário um número inteiro;
+2. O algoritmo faz a leitura do número informado;
+3. O algoritmo verifica o valor do número:	
+	4. Enquanto o número informado for maior que -1, é feito o print do número e decrementa 1 dele.
+	5. Caso o valor atual do número for igual a -1, o algoritmo é finalizado.

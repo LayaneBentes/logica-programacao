@@ -1,0 +1,9 @@
+Tabuada Interativa
+1. O programa pede para o usuário um número ou que ele digite "s" caso queira sair;
+2. Enquanto o usuário digitar número, o programa perguntará ao usuário
+   qual tabuada o usuário deseja;
+3. Caso seja adição, o programa irá realizar a adição do número digitado +1, +2, ..., +9;
+4. Caso seja subtração, o programa irá realizar a subtração do número digitado -1, -2, ..., -9;
+5. Caso seja multiplicação, o programa irá realizar a multiplicação do número digitado *1, *2, ..., *9;
+6. Caso seja divisão, o programa irá realizar a divisão do número digitado /1, /2, ..., /9;
+7. Caso o usuário digite "s", o programa finalizará

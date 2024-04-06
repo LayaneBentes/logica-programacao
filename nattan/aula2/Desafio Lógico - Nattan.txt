@@ -1,0 +1,9 @@
+						(Lobo, Cordeiro, Couve, Eu)	-	()
+1. Leva o cordeiro para o outro lado;		(Lobo, Couve) 			-	(Cordeiro, Eu)
+2. Volta sozinho;				(Lobo, Couve, Eu) 		- 	(Cordeiro)
+3. Leva o lobo para o outro lado;		(Couve) 			- 	(Cordeiro, Lobo, Eu)
+4. Volta com o cordeiro;			(Couve, Cordeiro, Eu) 		-	(Lobo)
+5. Leva a couve para o outro lado;		(Cordeiro) 			- 	(Lobo, Couve, Eu)
+6. Volta sozinho;				(Cordeiro, Eu) 			- 	(Lobo, Couve)
+7. Leva o cordeiro para o outro lado;		() 				- 	(Lobo, Couve, Cordeiro, Eu)
+

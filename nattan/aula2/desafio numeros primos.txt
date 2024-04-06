@@ -1,0 +1,13 @@
+range_atual(1, 1000)
+chances(10)
+
+1. O algoritmo escolhe um número que está no range_atual;
+2. O algoritmo informa ao usuário o range_atual;
+3. O usuário escolhe um número primo no range_atual;
+4. Enquanto número do usuário != número do algoritmo → range atual é dividido por 2 e é subtraído 1 chance;
+5. Caso o número do algoritmo for maior que o range atual,
+   o algoritmo informa ao usuário que o número está entre 500 e 1000,
+   caso contrário, o algoritmo informa que o número está entre 1 e 499;
+6. O usuário escolhe outro número dentro do range atual
+...
+

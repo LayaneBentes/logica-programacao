@@ -1,0 +1,9 @@
+Calculadora de Fatorial
+
+1. O programa solicita ao usuário que digite um número inteiro positivo;
+2. Caso o número digitado não seja inteiro positivo, o programa solicitará
+   novamente que o usuário insira um número inteiro positivo;
+3. O programa pega o valor atual e, enquanto o antecessor deste valor for diferente de 0,
+   multiplicará o valor atual com o seu antecessor;
+4. O programa pega o resultado da multiplicação e atribui ao valor atual;
+5. Caso o antecessor do valor atual for igual a 0, o programa finaliza.
