@@ -1,0 +1,37 @@
+
+Tabuada Interativa
+Passos:
+1.o usuario entra com um número referente a tabuada.
+2.o usuario insere outro valor para definir o tamanho da tabuada.
+3.verificar se o número é negativo, caso contrário pede um numero positivo
+pra ambos os casos.
+4.o algoritmo deve sempre pedir novos valores para o usuario.
+5.o algoritmo precisa parar quando o usuário quiser, caso o usuário
+queira outra tabuada, ele irá inserir outro valor, caso contrário ele,
+encerrará o algortimo.
+6.imprimir na tela uma mensagem de encerramento, caso o algoritmo seja
+encerrado.
+
+
+Calculadora de fatorial
+Passos:
+1) solicita um valor do usúario.
+2) o valor passará por uma verificação para saber se o número é positivo ou negativo.
+3) o programa faz a multiplicação e mostra somente o resultado para o usuario
+
+Jogo de advinhação de números
+Passos:
+1) será usado um for onde será sorteado o numero de 1 a 100.
+2) o usúario entrará com valores 
+3) todo valor que o usuario colocar passara por uma analise para saber se é positivo ou negativo, caso seja negativo, o algoritmo pede a entrada de um valor positivo.
+4) o programa nunca deve finalizar a nao ser que o usuario queira (while)
+5) caso acerte o numero o programa finaliza e pergunta se quer continuar 
+6) caso queira finalizar ele imprimi uma mensagem
+
+Conversos de temperatura
+1) como o codigo ja estava proto, inclemnetamos apenas a estrutura de repetição while
+2) o programa perguntará se o usuario quer continuar ou finalizar
+3) caso finalize, ele mostra uma mensagem de finalização
+4) caso não finalize, ele prossegue com as conversções 
+
+
