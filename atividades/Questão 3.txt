@@ -1,0 +1,6 @@
+1. O usuário informa um ano;
+2. O algoritmo verifica se o ano informado é divisível por 100 e não é divisível por 400;
+3. Caso verdadeira a verificação, é informado que o ano não é bissexto;
+4. Caso falsa a verificação, é verificado se o ano é divisível por 4;
+5. Caso verdadeira a verificação, é informado que o ano é bissexto;
+6. Caso a verificação resulte falso, é informado que o ano não é bissexto;

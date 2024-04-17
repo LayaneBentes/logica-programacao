@@ -1,0 +1,5 @@
+1. Pedir para que o usuário escreva o primeiro, segundo e terceiro número;
+2. Caso o primeiro seja maior ou igual ao segundo e maior ou igual ao terceiro, então o maior número é o número escrito no primeiro;
+3. Caso o segundo seja maior ou igual ao primeiro e maior ou igual ao terceiro, então o maior número é o número escrito no segundo;
+4. Caso o terceiro seja maior ou igual ao primeiro e maior ou igual ao segundo, então o maior número é o número escrito no terceiro;
+5. É mostrado na tela o valor do maior número;

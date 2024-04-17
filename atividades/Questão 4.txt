@@ -1,0 +1,5 @@
+1. É solicitado que o usuário escreva três notas;
+2. É verificado se as notas estão entre 0 e 10, caso não estejam, é solicitado que o usuário insira notas válidas;
+3. É solicitado que o usuário insira os pesos de cada nota;
+4. É feita a média ponderada das notas, que corresponde ao somatório do resultado de cada nota multiplicada pelo seu peso, dividido pela soma dos pesos;
+5. É escrito o resultado desse cálculo.

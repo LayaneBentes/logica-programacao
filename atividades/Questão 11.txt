@@ -1,0 +1,5 @@
+1. É solicitado que o usuário insira um número inteiro a partir de 0;
+2. Caso o número não seja inteiro maior ou igual a 0, é solicitado que o usuário adicione um número válido;
+3. Ao adicionar um número válido, em uma estrutura "for" é contado a quantidade de números impares entre 0 e o número informado pelo usuário;
+4. Caso o resto da divisão por 2 do índice atual do laço seja diferente de 0, é adicionado +1 à uma variável "impar";
+5. Ao final, é informado ao usuário a quantidade de números impares "impar";

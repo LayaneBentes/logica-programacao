@@ -1,0 +1,5 @@
+1. É solicitado do usuário que informe o comprimento de cada um dos três lados do triângulo;
+2. É verificado os valores informados pelo usuário;
+3. Caso os lados sejam todos iguais, é escrito que o triângulo é equilátero;
+4. Caso todos os lados sejam diferentes, é escrito que o triângulo é escaleno;
+5. Caso contrário, o triângulo é isósceles.

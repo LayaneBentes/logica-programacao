@@ -1,0 +1,6 @@
+1. O algoritmo pede que o usuário insira um número positivo maior que 1;
+2. Caso o número não seja válido, será solicitado novamente que o usuário insira um número válido;
+3. É feita uma contagem de 1 até o número dado pelo usuário;
+4. Caso o resto deste número dividido por 2 seja 0, o algoritmo conta +1 número par;
+5. Caso o resto deste número dividido por 2 seja diferente de 0, o algoritmo conta +1 número impar;
+6. Ao final, é informado ao usuário quantos números pares e impares existem entre 1 e o número informado.

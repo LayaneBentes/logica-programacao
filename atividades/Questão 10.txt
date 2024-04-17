@@ -1,0 +1,7 @@
+1. É solicitado do usuário um número inteiro positivo;
+2. Caso o número informado não seja inteiro positivo, é solicitado novamente ao usuário que ele insira um número inteiro positivo. Caso seja válido, é adicionado a uma variável nomeada como "num";
+3. Após ser informado um número válido, inicia-se uma estrutura "while" para calcular a soma de todos os algarismos presentes no número informado pelo usuário;
+4. O cálculo é feito da esquerda pra direita, onde é obtido o resto da divisão do número informado por 10 (num % 10). Este resto é adicionado a uma variável "soma";
+5. Após isso, é feita a divisão inteira do número "num" por 10 (int(num/10)). "num" recebe o resultado desta divisão;
+6. É repetido os passos 4 e 5 enquanto "num" for maior ou igual a 1;
+7. Ao final, é mostrado ao usuário o resultado "soma"; 

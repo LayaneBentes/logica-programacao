@@ -1,0 +1,6 @@
+1. O algoritmo inicia em um laço de repetição "for", que irá se repetir 3 vezes.
+2. É solicitado que o usuário informe 2 valores inteiros;
+3. Caso seja a primeira repetição, é colocado em "conta1" o valor resultante da subtração entre o "valor1" e "valor2" fornecido pelo usuário na primeira repetição;
+4. Caso seja a segunda repetição, é colocado em "conta2" o valor resultante da subtração entre o "valor1" e "valor2" fornecido pelo usuário na segunda repetição;
+5. Caso seja a terceira repetição, é colocado em "conta3" o valor resultante da subtração entre o "valor1" e "valor2" fornecido pelo usuário na terceira repetição;
+6. Ao final do algoritmo, é mostrado para o usuário os resultados de cada uma das subtrações.

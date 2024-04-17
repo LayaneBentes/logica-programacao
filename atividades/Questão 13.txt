@@ -1,0 +1,9 @@
+1. É solicitado do usuário uma palavra;
+2. A palavra informada pelo usuário é adicionada a um vetor "vetPalavra" utilizando a estrutura de repetição "for";
+3. Inicialmente é dada a variável "palindromo" como verdadeiro;
+4. Em uma estrutura "for", iniciando em 1 e terminando na metade do vetor, é feita as comparações;
+5. De vetPalavra, é pego o indice mais da esquerda e comparado com o indice mais da direita, aqui descrito como "indiceInverso", caso as letras não sejam iguais, "palindromo" é dada como falso;
+6. É adicionado +1 ao indice da esquerda e subtraído -1 de "indiceInverso";
+7. Ao final, é verificado qual o estado atual de "palindromo";
+8. Caso "palindromo" seja verdadeiro, é escrito para o usuário que a palavra é um palíndromo;
+9. Caso "palindromo" seja falso, é escrito para o usuário que a palavra não é um palíndromo;

@@ -1,0 +1,9 @@
+1. É solicitado do usuário um número inteiro positivo;
+2. Caso o número informado não seja inteiro positivo, é solicitado novamente que ele informe um número inteiro positivo;
+3. Após o usuário informar um número válido, inicia-se os cálculos pra informar ao usuário a sequência Fibonacci;
+4. A quantidade de valores escritos na tela corresponde ao número informado pelo usuário. Se o usuário informar 10, por exemplo, será mostrado na tela 10 valores presentes na sequência Fibonacci;
+5. O valor inicial, aqui descrito como "valor", é 0 e o próximo valor, descrito como "prox", é 1;
+6. Na sequencia de valores, é escrito o valor atual, que corresponde a "valor";
+7. Em seguida, é feito o cálculo de qual será o próximo número da sequencia, somando "prox" com "valor" e colocando na variável "calc";
+8. É colocado o valor atual de "prox" em "valor" e o resultado do cálculo "calc" em "prox";
+9. É repedido os passos 6, 7 e 8 até que a quantidade de números da sequência Fibonacci escritos seja igual ao número fornecido inicialmente pelo usuário;

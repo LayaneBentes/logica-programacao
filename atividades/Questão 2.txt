@@ -1,0 +1,5 @@
+1. Solicita ao usuário que escreva a idade;
+2. Se a idade for menor ou igual a 10, o usuário é criança;
+3. Se a idade for maior que 10 e menor que 18, o usuário é adolescente;
+4. Se a idade for maior ou igual a 18 e menor que 60, o usuário é adulto;
+5. Caso a idade informada seja maior ou igual a 60, o usuário é idoso(a);
