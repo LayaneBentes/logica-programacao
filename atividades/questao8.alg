@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Questão 8 -  Sequência de Fibonacci"
 // Função :
 // Autor :
 // Data : 13/04/2024

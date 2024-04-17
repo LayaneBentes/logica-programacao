@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Questão 6 - Números Pares e Ímpares"
 // Função :
 // Autor :
 // Data : 13/04/2024

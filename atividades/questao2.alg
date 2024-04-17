@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Questão 2 - Idade"
 // Função :
 // Autor :
 // Data : 13/04/2024

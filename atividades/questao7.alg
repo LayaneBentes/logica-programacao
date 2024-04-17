@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Questão 7 - Adivinhe o Número"
 // Função :
 // Autor :
 // Data : 13/04/2024

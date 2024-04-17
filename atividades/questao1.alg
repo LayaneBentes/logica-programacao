@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Questão 1 - Maior de Três Números"
 // Função :
 // Autor :
 // Data : 13/04/2024

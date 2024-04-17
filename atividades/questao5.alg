@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Questão 5 - Triângulo"
 // Função :
 // Autor :
 // Data : 13/04/2024

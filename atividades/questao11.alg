@@ -1,16 +1,20 @@
-algoritmo "Números de 1 a 10"
+algoritmo "Questão 11 - Numeros Impares"
+// Função :
+// Autor :
+// Data : 13/04/2024
+// Seção de Declarações
 var
 controle, i, numero, impar: inteiro
 inicio
 controle <- 1
 enquanto (controle <> 0) faca
-escreva("Digite um número: ")
-leia(numero)
-se (numero >= 0) entao
-   controle <- 0
-   senao
-        escreval("Escreva um número maior ou igual a 0...")
-fimse
+   escreva("Digite um número inteiro a partir de 0: ")
+   leia(numero)
+   se (numero >= 0) entao
+      controle <- 0
+      senao
+           escreval("Escreva um número inteiro maior ou igual a 0...")
+   fimse
 fimenquanto
 
 impar <- 0

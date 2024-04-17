@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Questão 4 - Média Ponderada"
 // Função :
 // Autor :
 // Data : 13/04/2024

@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Questão 10 - Soma de Dígitos de um Número"
 // Função :
 // Autor :
 // Data : 13/04/2024
