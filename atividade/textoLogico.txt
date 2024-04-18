@@ -1,0 +1,108 @@
+1. Verificar Maior de Três Números:
+Escreva um programa que solicita três números ao usuário e, em seguida, exibe o 
+maior deles. Use apenas instruções "if" para realizar essa comparação.
+
+Passos:
+
+1- O programa irá pedir ao usuario para entrar com os 3 valores, 2- depois os valores serão comparados, primeiro será comparado o valor 1 com os demais, segundo o valor 2 com os demais e o terceiro valor com os demais, 3- no final de todo o processo de comparação ele irá retornar uma mensagem dizendo qual o maior numero.
+=============================================================================
+
+2. Classificar Idade
+Crie um programa que pede ao usuário para inserir sua idade e, com base nela, 
+imprime uma mensagem informando se a pessoa é criança, adolescente, adulto ou 
+idoso.
+
+Passos: 
+
+1- O programa pedirá ao usuario para que informe um numero, 2- após o numero inserido o mesmo passará por um processo de comparação, 3- primeiramente é verificado se o numero informado é negativo, caso seja, 4- o programa pede para inserir um valor válido, 5- caso contrário ele ira comparar as idades, 6- o programa não tem um fim determinado para que seja mais livre ao usuário, 7- caso o usuario digite um valor maior que 130 o programa deixa uma mensagem.
+==============================================================================
+3. Verificar Ano Bissexto:
+Peça ao usuário para inserir um ano e, em seguida, verifique se esse ano é bissexto ou não. Um ano bissexto é aquele que é divisível por 4, exceto pelos anos que são divisíveis por 100 e não são divisíveis por 400.
+
+Passos:
+1- O programa pedirá ao usuario para que informe um ano, 2- e passara por uma verificação de numeros negativos, caso seja ele pedira um valor valido caso contrario 3- entrará em uma condição de resto de divisao, 4- caso seja bissexto ele mostrará na tela, o mesmo pra quando nao dor bissexto 5- logo apos o programa finaliza.
+===================================================================
+4. Calcular Média Ponderada
+Escreva um programa que pede ao usuário para inserir três notas (cada uma de 0 a 10) e os 
+pesos correspondentes de cada nota. Em seguida, calcule e exiba a média ponderada. Por 
+exemplo, se as notas forem 7, 8 e 9, com pesos de 2, 3 e 5 respectivamente, a média 
+ponderada seria ((72) + (83) + (9*5)) / (2 + 3 + 5).
+
+Passos:
+
+1 - o programa solicitará ao usuário sua nota e peso da nota, 2- o programa tem uma restrição na nota a qual só pode notas de 0 a 10 então a cada inserção das notas, a mesmas passarão por uma verificação desses valores, 3- após esse processo a média ponderada será calculada e 4- o programa mostrará uma mensagem com a média. 
+==============================================================================
+5. Decidir Triângulo
+Escreva um programa que pede ao usuário para inserir os comprimentos dos três 
+lados de um triângulo e, em seguida, determine se o triângulo é equilátero (todos os 
+lados iguais), isósceles (dois lados iguais) ou escaleno (nenhum lado igual).
+
+Passos:
+
+1- O programa pedirá ao usuário para inserir 3 valores, 2- cada um desses valores passará pelo identificador de número negativos, caso seja negativo, o programa informará ao usuário que não é um valor válido, 3- caso contrário  o programa irá fazer comparacoes entre os valores, onde dirá se é equilátero, isósceles ou escaleno e o 4- o programa mostrará na tema quando for um dos tipos de triângulo. 
+==============================================================================
+6. Contador de Números Pares e Ímpares:
+Escreva um programa que solicita ao usuário um número inteiro positivo e, em 
+seguida, use um loop "while" para contar e exibir quantos números pares e quantos 
+números ímpares existem entre 1 e o número inserido.
+
+Passos:
+
+ 1- O programa solicitará do usuário um valor, 2- o valor passará pela análise de número negativo e o programa pedirá um valor válido, 3- caso não seja negativo, ele passará pela condição do mod (mesmo de %) resto da divisão, onde ( = 0 é par) e  (<> 0 é ímpar), no o final de tudo o programa dirá quais os numeros pares e quais os numero impares.
+==============================================================================
+7. Adivinhe o Número:
+Crie um programa em que o computador gera aleatoriamente um número entre 1 e 100, e o 
+usuário tem que adivinhar qual é esse número. Use um loop "while" para permitir que o 
+usuário faça várias tentativas até acertar o número. O programa deve fornecer dicas 
+indicando se o número é maior ou menor do que o palpite atual.
+
+Passos:
+
+1- O usuário irá entrar com um valor, 2- e esses valores serão comparados se é maior ou menor,  3- o programa sempre mostrará maior ou menor nas tentativas, 4- caso o usuario acerte aparece uma mensagem de parabéns e finaliza o programa, caso contrario, o programa sempre dará novas opotunidades.
+
+==============================================================================
+
+8. Gerador de Sequência de Fibonacci:
+Escreva um programa que solicita ao usuário um número inteiro positivo e, em seguida, use um loop "while" para gerar e exibir a sequência de Fibonacci até o termo correspondente ao número inserido. A sequência de Fibonacci é uma série de números em que cada número é a soma dos dois números anteriores. Os primeiros dois números da sequência são 0 e 1. Por exemplo, se o usuário inserir o número 7, o programa deve exibir a sequência: 0, 1, 1, 2, 3, 
+5, 8.
+
+Passoa:
+
+1- pesquisar o que é fibonacci e tentar entender como funciona, como é na condição while, terá que ter dois principais requisitos, uma variavel controle e a incrementaçaõ dos valores, 2- o programa ira pedir um valor ao usuario e esse valor entrará em um laço de repetição, como nao sei um numero determinado pois é o usuario que o define, o while é mais indicado, 3- a repeticao vai ate o numero inserido pelo usuario, 4- terei mais 3 variaveis que servirao de auxilio, 5- após passar pelo processo da soma dos numeros o programa mostrará a sequencia e finalizará.
+==============================================================================
+
+9. Verificar Palíndromo:
+Escreva um programa que pede ao usuário para inserir uma palavra e determine se essa palavra é um palíndromo ou não. Um palíndromo é uma palavra que é lida da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda.
+
+Passos:
+
+1- O programa ira pedir ao usuario para entrar com uma palavra, 2- a palavra tem  quer ser armazenada e dentro da condição while 3- havera a comparaçao dos caracteres iniciais e caracteres finais, e logo em seguida 4- tera que printar se é palindromo ou nao e o programa finalizará.
+==============================================================================
+10. Soma de Dígitos de um Número:
+Peça ao usuário para inserir um número inteiro positivo e, em seguida, use um loop "while" para calcular e exibir a soma dos dígitos desse número. Por exemplo, se o número inserido for 1234, a soma dos dígitos seria 1 + 2 + 3 + 4 = 10.
+
+Passos:
+
+1- O programa pedirá ao usuario para inserir um numero, 2- esse numero entrará em um laço de repetição, 3- nessa parte preciso pesquisar um metodo para fazer essa soma, 4- assim que passar pela estrutura de repetição 5- o programa precisa mostrar o resultado e depois finalizar.
+==============================================================================
+11. Numeros Impares
+Faça um programa, utilizando for, que peça para o usuário inserir um número N e mostre na tela todos os números ímpares até N. utilizando o for
+
+Passos:
+
+1- O programa solicitará um numero ao usuario, 2- e precisara passar por uma verificao de numero negativo, 3- caso seja negativo ele pederirá um valor válido, 4- caso contrario entrará no laço for que tera como paramentro uma forma de sempre mostrar numeros impares, 4- no final desse processo ele mostrará ao usuario os numeros impares.
+==============================================================================
+12. Subtração
+Faça um programa, utilizando for, que permita o usuário fazer três contas de subtração.
+
+Passos:
+
+1- O programa pedira para que o usuario entre com os valores, 2- e antes de tudo passara por validação de numero negativo, 3- o for permitirá que o usuario insira sem precisar colocar varios escreva, bastando somente dois escreva, 4- tendo isso em mente depois será preciso subtrair esses valores, 5- sera criado outro for para mostrar as 3 subtrações, 6- deve ter uma opção perguntando se o usuario quer continuar com mais subtrações.
+==============================================================================
+
+13.Verificador de Palíndromos
+Escreva um programa que solicita ao usuário uma palavra e verifica se essa palavra é um palíndromo ou não. Um palíndromo é uma palavra que é lida da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda.
+
+1- usaria a mesma logica de resolucao da mesma questao com while e modificaria para que funcionasse com o for
+
+
